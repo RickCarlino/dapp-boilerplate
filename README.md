@@ -10,6 +10,25 @@ Technologies:
  * [ReactJS](https://reactjs.org/)
  * [Typescript](https://www.typescriptlang.org/docs/)
 
+# Status
+
+Still a work-in-progress.
+
+TODO:
+
+ * Add Truffle
+ * Add notes about Ganache and local blockchain
+ * Add test suite / coverage utils.
+
+# Up and Running
+
+```
+git clone git@github.com:RickCarlino/dapp-boilerplate.git
+cd dapp-boilerplate
+npm install
+npm start
+```
+
 # Design
 
 The boilerplate is designed around my own needs and opinions.
