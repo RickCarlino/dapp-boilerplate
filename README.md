@@ -16,7 +16,6 @@ Still a work-in-progress.
 
 TODO:
 
- * Add Truffle
  * Add notes about Ganache and local blockchain
  * Add test suite / coverage utils.
 
